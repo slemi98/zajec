@@ -23,7 +23,7 @@
 	<!-- end #page --> 
 </div>
 <div id="footer">
-	<p>Copyright (c) 2016 zajec.com. All rights reserved. Design by <a href="http://www.freecsstemplates.org">FCT</a>. Photos by <a href="http://fotogrph.com/">Fotogrph</a>.</p>
+	<p>Copyright (c) 2016 zajec.com. All rights reserved.</p>
 </div>
 <!-- end #footer -->
 </body>
