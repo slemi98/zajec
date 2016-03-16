@@ -76,7 +76,7 @@ Released   : 20120915
 			</div>
 		</div>
 		<div id="banner">
-			<div class="content"><img src="images/zajec.jpg" width="1000" height="300" alt="" /></div>
+			<div class="content"><a href="index.php"><img src="images/zajec.jpg" width="1000" height="300" alt="" /></a></div>
 		</div>
 	</div>
 	<!-- end #header -->
