@@ -7,7 +7,7 @@
 <form action="user_insert.php" method="post">
     Ime: <input type="text" name="first_name" /><br />     
     Priimek: <input type="text" name="last_name" /><br />
-    E-pošto: <input type="email" name="email" /><br />
+    E-pošta: <input type="email" name="email" /><br />
     Telefon: <input type="text" name="phone" /><br />
     Geslo: <input type="password" name="pass1" /><br />
     Geslo(2x): <input type="password" name="pass2" /><br />
