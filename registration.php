@@ -10,7 +10,7 @@
     E-pošta: <input type="email" name="email" /><br />
     Telefon: <input type="text" name="phone" /><br />
     Geslo: <input type="password" name="pass1" /><br />
-    Geslo(2x): <input type="password" name="pass2" /><br />
+    Ponovno geslo: <input type="password" name="pass2" /><br />
     <input type="submit" name="submit" value="Registriraj se" />
     <input type="reset" name="reset" value="Prekliči" />
 </form>
