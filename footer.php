@@ -5,9 +5,9 @@
 				<li>
 					<h2>Meni</h2>
 					<ul>
-						<li><a href="ad_add.php">Dodaj oglas</a></li>
-						<li><a href="ad_list.php">Preglej oglase</a></li>
-						<li><a href="my_offers.php">Moja ponudba</a></li>
+						<li><button class="btn btn-primary"><a href="ad_add.php">Objavi oglas</a></button></li>
+						<li><a href="ad_list.php">Vsi oglasi</a></li>
+						<li><a href="my_offers.php">Moji oglasi</a></li>
 						<li><a href="categories_list.php">Preglej kategorije</a></li>
 						<li><a href="my_auctions.php">Oddane ponudbe</a></li>
 						<!--<li><a href="#">Urnanet non molestie semper</a></li>
