@@ -2,9 +2,6 @@
     include_once 'header.php';
     include_once 'database.php';
 ?>
-<h1>Pozdravljeni</h1>
-
-<p>
 <?php
     $sql = "SELECT * FROM users WHERE id=".$_SESSION['user_id'];
     //pošljem poizvedbo v PB in v spremenljivko query
@@ -14,6 +11,10 @@
     $result = mysql_fetch_array($query);
 
     ?>
+<h1>Pozdravljen <?php echo $result['first_name']  ?> </h1>
+
+<p>
+
 
     <table id="tabela" class="table table-bordered">
         <tr>
