@@ -88,7 +88,7 @@ $user = mysql_fetch_array($result);
     </div>
     <div class="col-md-6">
         <div class="form-group">
-            <label>Geslo (Novo 2x)</label>
+            <label>Ponovno geslo (Novo)</label>
             <input class="form-control" type="password" name="pass2" />
         </div>
     </div>
