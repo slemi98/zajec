@@ -56,7 +56,9 @@ Released   : 20120915
 	<div id="header-wrapper">
 		<div id="header" class="container">
 			<div id="logo">
-				<h1><a href="index.php">ZAJEC.COM</a></h1>
+				<h1><a href="index.php">ZAJEC</a></h1>
+				<span><h3>Mali oglasi, velik uspeh!</h3></span>
+
 			</div>
 			<div id="menu">
 				<ul>
