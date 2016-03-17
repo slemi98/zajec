@@ -11,7 +11,7 @@
     Telefon: <input type="text" name="phone" /><br />
     Geslo: <input type="password" name="pass1" /><br />
     Geslo(2x): <input type="password" name="pass2" /><br />
-    <input type="submit" name="submit" value="Shrani" />
+    <input type="submit" name="submit" value="Registriraj se" />
     <input type="reset" name="reset" value="Prekliči" />
 </form>
 
