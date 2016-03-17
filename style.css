@@ -5,6 +5,10 @@ http://www.freecsstemplates.org
 Released for free under a Creative Commons Attribution 2.5 License
 */
 
+span {
+	color: #222222;
+}
+
 body {
 	margin: 0;
 	padding: 0;
@@ -74,6 +78,10 @@ a:hover {
 }
 
 /* Logo */
+
+h3 {
+	color: #FFFFFF;
+}
 
 #logo {
 	float: left;
