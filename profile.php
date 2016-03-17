@@ -93,7 +93,7 @@ $user = mysql_fetch_array($result);
         </div>
     </div>
     <div class="col-md-12">
-        <input class="btn btn-primary" type="submit" name="submit" value="Shrani" />
+        <input class="btn btn-primary" type="submit" name="submit" value="Spremeni" />
         <input class="btn btn-default" type="reset" name="reset" value="Prekliči" />
     </div>
 
